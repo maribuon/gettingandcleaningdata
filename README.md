@@ -3,7 +3,7 @@ project for the course with the name above
 
 This repository contains a simple solution for the final project on the course Getting and Cleanining Data.
 
-The script run_analysis.R which reads the suject, X and y file for the training and test datasets of UCI HAR Dataset and:
+The script run_analysis.R which reads the suject, X and y file for the training and test datasets of UCI HAR Dataset (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) and:
 
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
